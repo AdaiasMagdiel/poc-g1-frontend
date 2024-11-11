@@ -1,0 +1,21 @@
+{
+    "name": "adaiasmagdiel/g1-frontend",
+    "description": "add later",
+    "type": "project",
+    "require": {
+        "adaiasmagdiel/g1-client": "^0.1.1",
+        "adaiasmagdiel/hermes": "^1.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adaías Magdiel",
+            "email": "adaiasmagdiell@gmail.com"
+        }
+    ]
+}
